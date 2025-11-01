@@ -1,24 +1,26 @@
-<!-- Animated Banner -->
+<!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="100%" alt="animated banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0066FF&height=200&section=header&text=Welcome%20to%20Farrel's%20GitHub%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Farrel Diego Akbar</h1>
-<h3 align="center">Developer & Programmer Student</h3>
+<h3 align="center">💻 Developer & Programmer Student</h3>
 
 ---
 
 ## 🌟 About Me
 
-Hey there fellas! I'm **Farrel Diego Akbar**, i'm a rookie developer who always wants to know more about new things!.  
+Hey there fellas! I'm **Farrel Diego Akbar**, a rookie developer who always wants to know more about new things!  
 I'm a curious learner who enjoys diving into different technologies, experimenting, and building real-world projects!
 
 Here's what I've learned so far:
-- 🌐 Basic web development using **HTML**, **CSS**, and **JavaScript** (currently learning react as a first step to get to know the broad frontend tech)
+- 🌐 Basic web development using **HTML**, **CSS**, and **JavaScript** (currently learning React as my first step into modern frontend tech)
 - ⚙️ Backend & real-time applications with **PHP** and **Laravel**
 - 📱 Mobile app development with **Flutter & Dart**
 - 🤖 Fundamental **AI & Machine Learning**, including creating my own AI models
 - 🧠 & hopefully much more in the future!
+
+---
 
 ## 🌐 Connect with Me
 
@@ -48,7 +50,7 @@ Here's what I've learned so far:
 ### ⚙️ Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flutter](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -79,10 +81,10 @@ Here's what I've learned so far:
 ---
 
 ## 🧠 Fun Facts About Me
-- 💻 fast enough to understand how my program code works and analyze problems that are quite catchy
-- 🫂 I have good collaboration skills
-- 🌱 Always curious about how things especially technology work
-- 💬 interested in talking about tech, design, and innovation
+- 💻 Quick to analyze and understand code logic  
+- 🫂 Excellent teamwork and collaboration skills  
+- 🌱 Always curious about how technology works  
+- 💬 Enjoys talking about tech, design, and innovation  
 
 ---
 
@@ -90,30 +92,28 @@ Here's what I've learned so far:
 
 Here are some things I'm currently working on or planning to achieve soon 👇
 
-- 🔭 Working on a **MORA APP** such as journaling App that hopefully integrate with AI chatbots using Flutter  
-- 🔭 Working on a **LibreNMS Automation report** that integrated with REST API Laravel
-- 📚 interested on learning about payment gateways starting from using **Midtrans** which I will hopefully implement in my Mora application 
-- 📚 Learning **React.js** to expand my FrontEnd skillset  
-- 📚 Interested on learning new stacks like **MERN Stack** to expand my web development skillset  
-- 📚 Currently studying the entire javascript hierarchy family such as **next.js**, **express.js**, etc.
-- 🤝 Planning to contribute to **open source Laravel / Flutter projects**  
-- 💼 Preparing for my **internship and real-world collaboration projects**
+- 🔭 Developing **MORA APP**, a journaling app integrated with AI Chatbot using Flutter  
+- ⚙️ Automating **LibreNMS Report Generation** using Laravel REST API  
+- 💳 Exploring **Payment Gateways** such as Midtrans for integration into Mora App  
+- ⚡ Learning **React.js** and modern frontend stacks like **Next.js** and **Express.js**  
+- 🧠 Expanding backend knowledge into **MERN Stack**  
+- 🤝 Contributing to **Open Source** Laravel / Flutter projects  
+- 💼 Preparing for upcoming **internship & real-world collaborations**
 
-> _Yang hilang cuman jam tidur, bukan jam terbang 😴_
-
----
+> _Yang hilang cuma jam tidur, bukan jam terbang 😴_
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=farrel-codenoob29&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=farrel-codenoob29&label=Profile%20Views&color=00C4CC&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0066FF&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=25&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/AZ9Ykqv.gif" width="300" alt="Thanks" />
-  <br/>
-  <b>Thank you to you all fellas for visiting my profile! If you interested in collaborating with me, you can contact me anytime you want!</b>
-  <b>Alraight. maybe that's all folks! adios.</b>
+  <b>Thank you for visiting my profile! 🚀<br/>
+  If you’re interested in collaborating with me, feel free to reach out anytime!<br/>
+  Alright, maybe that’s all folks — adios! 👋</b>
 </p>
