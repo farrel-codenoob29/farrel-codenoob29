@@ -1,18 +1,119 @@
-# 💫 About Me:
-Hello there!<br>I'm Farrel Diego Akbar 👋<br>And i absolutely new in this kind of stuff.<br>But don't worry, cause i love to learn new things!<br>So therefore, i can improve myself and understand how some of technology works!<br><br>I'm currently studying at vocational high school and this is my last year!<br>The things that i've learned as a rookie programmer are like:<br>- Basic website using HTML & CSS (sometimes using JS to adding its interactivity)<br>- Advanced website with real-time data management and performance enhancing website using PHP & ofcourse with its famous framework like Laravel.<br>- Creating a Mobile App using Flutter (i have basic knowledge about flutter so i implemented it in real projects).<br>- Basic understanding about Artificial intelligence and machine learning and even make my own Artificial intelligence (you can find it in my repo).<br><br>So yeah, i hope i can improve my knowledge in this tech world with expectations i can contribute more in this type of stuff<br>And also we can collaborate if that's sound possible.<br><br>and that's it. have a good one fellas!
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/MTJ6Zez.gif" width="100%" alt="animated banner" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/religoo_29) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@farrel2976) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farreldiego29@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farrel-codenoob29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farrel-codenoob29&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farrel-codenoob29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Farrel Diego Akbar</h1>
+<h3 align="center">Developer & Programmer Student/p</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=farrel-codenoob29&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+Hey there fellas! I'm **Farrel Diego Akbar**, i'm a rookie developer who always wants to know more about new things!.  
+I'm a curious learner who enjoys diving into different technologies, experimenting, and building real-world projects!
+
+Here's what I've learned so far:
+- 🌐 Basic web development using **HTML**, **CSS**, and **JavaScript** (currently learning react as a first step to get to know the broad frontend tech)
+- ⚙️ Backend & real-time applications with **PHP** and **Laravel**
+- 📱 Mobile app development with **Flutter & Dart**
+- 🤖 Fundamental **AI & Machine Learning**, including creating my own AI models
+- 🧠 & hopefully much more in the future!
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/religoo_29" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@farrel2976" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="mailto:farreldiego29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🧩 Tools & Others
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farrel-codenoob29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrel-codenoob29&theme=vue-dark&hide_border=false" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrel-codenoob29&theme=vue-dark&hide_border=false&layout=compact" height="140px" />
+</p>
+
+---
+
+## 🧠 Fun Facts About Me
+- 💻 fast enough to understand how my program code works and analyze problems that are quite catchy
+- 🫂 I have good collaboration skills
+- 🌱 Always curious about how things especially technology work
+- 💬 interested in talking about tech, design, and innovation
+
+---
+
+## 🚀 What's Next
+
+Here are some things I'm currently working on or planning to achieve soon 👇
+
+- 🔭 Working on a **MORA APP** such as journaling App that hopefully integrate with AI chatbots using Flutter  
+- 🔭 Working on a **LibreNMS Automation report** that integrated with REST API Laravel
+- 📚 interested on learning about payment gateways starting from using **Midtrans** which I will hopefully implement in my Mora application 
+- 📚 Learning **React.js** to expand my FrontEnd skillset  
+- 📚 Interested on learning new stacks like **MERN Stack** to expand my web development skillset  
+- 📚 Currently studying the entire javascript hierarchy family such as **next.js**, **express.js**, etc.
+- 🤝 Planning to contribute to **open source Laravel / Flutter projects**  
+- 💼 Preparing for my **internship and real-world collaboration projects**
+
+> _Yang hilang cuman jam tidur, bukan jam terbang 😴_
+
+---
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=farrel-codenoob29&icon=0&color=0" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/AZ9Ykqv.gif" width="300" alt="Thanks" />
+  <br/>
+  <b>Thank you to you all fellas for visiting my profile! If you interested in collaborating with me, you can contact me anytime you want!</b>
+  <b>Alraight. maybe that's all folks! adios.</b>
+</p>
