@@ -1,10 +1,10 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/MTJ6Zez.gif" width="100%" alt="animated banner" />
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="100%" alt="animated banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Farrel Diego Akbar</h1>
-<h3 align="center">Developer & Programmer Student/p</h3>
+<h3 align="center">Developer & Programmer Student</h3>
 
 ---
 
