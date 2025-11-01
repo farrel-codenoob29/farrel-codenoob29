@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0066FF&height=200&section=header&text=Welcome%20to%20Farrel's%20GitHub%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://github.com/farrel-codenoob29/farrel-codenoob29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Farrel Diego Akbar</h1>
