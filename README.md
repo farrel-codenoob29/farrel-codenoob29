@@ -1,12 +1,10 @@
-<!-- 🌟 Animated Banner -->
-<p align="center">
-  <img src="https://github.com/farrel-codenoob29/farrel-codenoob29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=9CDCFE&center=false&vCenter=true&multiline=true&width=500&height=160&lines=%7B;%20%20%22greetings%22%3A%20%22Hi%20Everyone!%22%2C;%20%20%22name%22%3A%20%22Farrel%20Diego%20Akbar%22%2C;%20%20%22role%22%3A%20%22Developer%20and%20Programmer%20Student%22%2C;%20%20%22focus%22%3A%20%22Building%20Website%2C%20AI%2C%20App%20and%20many%20more!%22%2C;%20%20%22status%22%3A%20%22Curious%20student%20who%20loves%20learning%20new%20things!%22;%7D" 
+    alt="JSON Typing Animation"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm Farrel Diego Akbar</h1>
-<h3 align="center">💻 Developer & Programmer Student</h3>
-
----
 
 ## 🌟 About Me
 
@@ -88,32 +86,34 @@ Here's what I've learned so far:
 
 ---
 
-## 🚀 What's Next
+## 🚀 What's Next?
 
 Here are some things I'm currently working on or planning to achieve soon 👇
 
 - 🔭 Developing **MORA APP**, a journaling app integrated with AI Chatbot using Flutter  
 - ⚙️ Automating **LibreNMS Report Generation** using Laravel REST API  
 - 💳 Exploring **Payment Gateways** such as Midtrans for integration into Mora App  
-- ⚡ Learning **React.js** and modern frontend stacks like **Next.js** and **Express.js**  
-- 🧠 Expanding backend knowledge into **MERN Stack**  
-- 🤝 Contributing to **Open Source** Laravel / Flutter projects  
+- ⚡ Learning **React.js** to expand my front end skillset**  
+- 🧠 Soon learning on other stacks like **MERN STACK** to slowly learn about becoming a fullstack
+- 🤝 Contributing to **Open Source** Laravel, Flutter or any other kind of projects  
 - 💼 Preparing for upcoming **internship & real-world collaborations**
-
-> _Yang hilang cuma jam tidur, bukan jam terbang 😴_
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farrel-codenoob29&label=Profile%20Views&color=00C4CC&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background-color:#1e293b; border:2px solid #00C4CC; border-radius:10px; padding:20px; width:80%;">
+        <i><b>“Yang hilang cuman jam tidur, bukan jam terbang 😴”</b></i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0066FF&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=25&fontColor=ffffff&animation=fadeIn" />
-</p>
+---
 
-<p align="center">
-  <b>Thank you for visiting my profile! 🚀<br/>
-  If you’re interested in collaborating with me, feel free to reach out anytime!<br/>
-  Alright, maybe that’s all folks — adios! 👋</b>
+<p align="center" style="margin-top:30px;">
+  <b>Thank you for visiting my profile! 🚀</b><br/>
+  <b>If you’re interested in collaborating with me, feel free to reach out anytime!</b><br/>
+  <b>Alright, maybe that’s all folks — adios! 👋</b>
 </p>
