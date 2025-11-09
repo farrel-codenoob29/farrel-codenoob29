@@ -1,9 +1,4 @@
-<p align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1300&pause=700&color=9CDCFE&center=false&vCenter=true&multiline=true&width=650&height=190&lines=%7B;%20%20%20%20name%20%3A%20%22Farrel%20Diego%20Akbar%22%2C;%20%20%20%20role%20%3A%20%22Developer%20and%20Programmer%20Student%22%2C;%20%20%20%20focus%20%3A%20%22Building%20Website%2C%20AI%2C%20App%20and%20many%20more!%22%2C;%20%20%20%20status%20%3A%20%22Curious%20student%20who%20loves%20learning%20new%20things!%22;%7D" 
-    alt="JSON Typing Animation"
-  />
-</p>
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1800&pause=800&color=9CDCFE&center=false&vCenter=true&multiline=true&width=600&height=160&lines=%7B%20%22greetings%22%3A%20%22Hi%20Everyone!%22%2C;%20%20%22name%22%3A%20%22Farrel%20Diego%20Akbar%22%2C;%20%20%22role%22%3A%20%22Developer%20and%20Programmer%20Student%22%2C;%20%20%22focus%22%3A%20%22Building%20Website%2C%20AI%2C%20App%20and%20many%20more!%22%2C;%20%20%22status%22%3A%20%22Curious%20student%20who%20loves%20learning%20new%20things!%22%20%7D" alt="JSON Typing Animation" /> </p>
 
 ## 🌟 About Me
 
