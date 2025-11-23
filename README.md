@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hey there fellas! I'm **Farrel Diego Akbar**, a rookie developer who always wants to know more about new things!  
+Hey there fellas! I'm **Farrel Diego Akbar**, a rookie developer from indonesia who always wants to know more about new things!  
 I'm a curious learner who enjoys diving into different technologies, experimenting, and building real-world projects!
 
 Here's what I've learned so far:
