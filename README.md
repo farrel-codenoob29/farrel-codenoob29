@@ -85,7 +85,7 @@ Here's what I've learned so far:
 Here are some things I'm currently working on or planning to achieve soon 👇
 
 - 🔭 Developing **MORA APP**, a journaling app integrated with AI Chatbot using Flutter  
-- ⚙️ Automating **LibreNMS Report Generation** using Laravel REST API  
+- ⚙️ Currently working on Automating **LibreNMS Report Generation** in Laravel using its REST API.  
 - 💳 Exploring **Payment Gateways** such as Midtrans for integration into Mora App  
 - ⚡ Learning **React.js** to expand my frontend skillset  
 - 🧠 Soon learning on other stacks like **MERN STACK** to slowly learn about becoming a fullstack
