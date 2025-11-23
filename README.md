@@ -105,9 +105,3 @@ Here are some things I'm currently working on or planning to achieve soon 👇
 </div>
 
 ---
-
-<p align="center" style="margin-top:30px;">
-  <b>Thank you for visiting my profile! 🚀</b><br/>
-  <b>If you’re interested in collaborating with me, feel free to reach out anytime!</b><br/>
-  <b>Alright, maybe that’s all folks — adios! 👋</b>
-</p>
