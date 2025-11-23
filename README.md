@@ -84,6 +84,7 @@ Here's what I've learned so far:
 
 Here are some things I'm currently working on or planning to achieve soon 👇
 
+- 🏢 Currently working at PT Comtelindo as an intern for 6 months.
 - 🔭 Developing **MORA APP**, a journaling app integrated with AI Chatbot using Flutter  
 - ⚙️ Currently working on Automating **LibreNMS Report Generation** in Laravel using its REST API.  
 - 💳 Exploring **Payment Gateways** such as Midtrans for integration into Mora App  
