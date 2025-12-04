@@ -16,7 +16,6 @@ Here's what I've learned so far:
 
 ## 🌐 Connect with Me
 
-<p align="center">
   <a href="https://instagram.com/religoo_29" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -26,7 +25,6 @@ Here's what I've learned so far:
   <a href="mailto:farreldiego29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
 ---
 
@@ -35,46 +33,43 @@ Here's what I've learned so far:
 ### 💻 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Frameworks & Libraries
+### 🏗️ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+### 📚 Libraries
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧩 Tools & Others
+### 🚀 DevOps & CI/CD
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🧩 Tools & Design
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrel-codenoob29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrel-codenoob29&theme=vue-dark&hide_border=false" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrel-codenoob29&theme=vue-dark&hide_border=false&layout=compact" height="140px" />
-</p>
-
----
-
 ## 🧠 Fun Facts About Me
 - 💻 Quick to analyze and understand code logic  
-- 🫂 Excellent teamwork and collaboration skills  
+- 🫂 Good at teamwork and collaboration skills  
 - 🌱 Always curious about how technology works  
 - 💬 Enjoys talking about tech, design, and innovation  
 
@@ -84,7 +79,6 @@ Here's what I've learned so far:
 
 Here are some things I'm currently working on or planning to achieve soon 👇
 
-- 🏢 Currently working at PT Comtelindo as an intern for 6 months.
 - 🔭 Developing **MORA APP**, a journaling app integrated with AI Chatbot using Flutter  
 - ⚙️ Currently working on Automating **LibreNMS Report Generation** in Laravel using its REST API.  
 - 💳 Exploring **Payment Gateways** such as Midtrans for integration into Mora App  
